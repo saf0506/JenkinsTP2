@@ -8,4 +8,4 @@ hour = str(now.hour)
 mi = str(now.minute)
 ss = str(now.second)
 
-print "date ;" + mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss
+print "date du jour " + mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss
